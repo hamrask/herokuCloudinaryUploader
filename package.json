@@ -4,7 +4,8 @@
   "description": "file uploader to cloudinary through heroku",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index"
+    "test": "nodemon index",
+    "start":"node index"
   },
   "author": "",
   "license": "ISC",
