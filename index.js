@@ -16,6 +16,6 @@ app.get('/', (req, res) => {
 
 app.use('/upload', file);
 
-app.listen(process.env.port, () => {
-    console.log('server started in port 3000');
+app.listen(process.env.PORT, () => {
+    console.log('server started', process.env.PORT);
 });
