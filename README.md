@@ -1,4 +1,4 @@
-# herokuCloudinaryUploader
+# File Upload to Cloudinary through Heroku
 cloudinary file upload through heroku
 
 This project allows a heroku user to upload file to Cloudinary service.
